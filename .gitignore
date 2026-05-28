@@ -1,3 +1,10 @@
+# --- LTspice files to ignore ---
+*.raw
+*.log
+*.net
+*.op.raw
+*.fft
+
 # --- KiCad main project files to ignore ---
 *.kicad_prl
 fp-info-cache
