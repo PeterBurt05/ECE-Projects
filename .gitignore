@@ -31,3 +31,6 @@ _autosave-*
 *.drl
 *.pos
 *.pdf
+
+# --- Whitelisted PDFs ---
+!Chorus\ Pedal/Documents/*.pdf
